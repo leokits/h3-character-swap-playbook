@@ -1,0 +1,11 @@
+Replace the selected person in Video 1 with the character in the reference picture.
+Preserve the source performance, scene, camera and audio timing.
+
+The character is an adult Hong Kong Chinese woman in her late 30s, wearing her own thin round
+metal eyeglasses and a black short puff-sleeve dress. Keep that dress and those glasses on her
+in every frame.
+
+She keeps the source performance: same posture, same head angles, same mouth shapes, same timing.
+Only the person changes; the background, lettering and exposure stay exactly as they are.
+
+Avoid: blonde hair, western features, missing glasses, leather jacket, male body, a second face.

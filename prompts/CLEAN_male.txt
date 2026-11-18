@@ -1,0 +1,11 @@
+Replace the selected person in Video 1 with the character in the reference picture.
+Preserve the source performance, scene, camera and audio timing.
+
+The character is an adult Hong Kong Chinese man in his early 40s, wearing clear everyday glasses
+and a navy blue suit jacket over a white shirt. No hat, no sunglasses. Keep that suit and those
+glasses on him in every frame.
+
+He keeps the source performance: same posture, same head angles, same mouth shapes, same timing.
+Only the person changes; the background, lettering and exposure stay exactly as they are.
+
+Avoid: cap, sunglasses, blonde hair, western features, missing glasses, a second face.

@@ -1,0 +1,13 @@
+*.mp4
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.npz
+*.safetensors
+plates/
+generations/
+source/
+__pycache__/
+*.pyc
+.env
